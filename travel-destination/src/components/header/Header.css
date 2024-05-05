@@ -1,0 +1,15 @@
+/* header.css */
+
+.header-container {
+    background-color: #c77ee9; /* Blue color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Text shadow effect */
+}
+
+.header-title {
+    font-size: 36px; /* Custom font size */
+    font-weight: bold; /* Bold font weight */
+}
+

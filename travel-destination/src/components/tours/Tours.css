@@ -1,0 +1,23 @@
+.card img{
+    width: 50%;
+    height: 50%;
+    padding-bottom: 10px;
+    border-radius: 8px; /* Add border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card{
+background-color: rgb(246, 228, 255);
+font-family: 'Times New Roman', Times, serif;
+font-style:italic;
+}
+
+.card img:hover {
+    transform: scale(1.1);
+}
+
+.card h2{
+    padding-top: 9px;
+}
