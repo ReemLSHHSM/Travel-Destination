@@ -1,9 +1,9 @@
-import Header from  "/home/reem/Travel-Destination/travel-destination/src/components/header/Header.js";
-import Footer from "/home/reem/Travel-Destination/travel-destination/src/components/footer/Footer.js"
-import Tours from "/home/reem/Travel-Destination/travel-destination/src/components/tours/Tours.js";
+import Header from  '../header/Header';
+import Footer from "../footer/Footer.js"
+import Tours from "../tours/Tours.js";
 
 function Home(){
-    const data=require('/home/reem/Travel-Destination/travel-destination/src/data/db.json');
+    const data=require('../../data/db.json');
     return(
    <>
    <Header/>

@@ -1,5 +1,5 @@
 
-import '/home/reem/Travel-Destination/travel-destination/src/components/footer/Footer.css'; // Import the CSS file
+import './Footer.css'; // Import the CSS file
 
 function Footer() {
     return (

@@ -1,5 +1,5 @@
 
-import '/home/reem/Travel-Destination/travel-destination/src/components/header/Header.css'; // Import the CSS file
+import './Header.css'; // Import the CSS file
 
 function Header() {
     return (

@@ -1,4 +1,4 @@
-import '/home/reem/Travel-Destination/travel-destination/src/components/tours/Tours.css'
+import './Tours.css'
 function Tours(props) {
     return (
         <div class='card'>
