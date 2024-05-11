@@ -1,7 +1,8 @@
-import { Link } from 'react-router-dom';
-import ToursDetails from '../../toursdetails/ToursDetails';
+import { Form, Link } from 'react-router-dom';
+import  './Tour.css';
 
 function Tour(props) {
+
   const data = props.tour;
 
   return (

@@ -18,6 +18,10 @@ font-style:italic;
     transform: scale(1.1);
 }
 
-.card h2{
+.card h4 :link{
     padding-top: 9px;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    text-decoration: none ;
 }
